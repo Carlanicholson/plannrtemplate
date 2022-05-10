@@ -1,0 +1,45 @@
+@import url("https://use.typekit.net/zbk7bhy.css");
+*{
+    font-family: 'filson-pro', sans-serif;
+}
+.mainbody{
+    background: #0E0E56;
+    background-image: url("imgs/vectorline.svg"), url("imgs/vector.svg");
+    background-attachment: fixed;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.whitebody{
+    background-image: url("imgs/vectorline.svg"), url("imgs/vectorgrey.svg");
+    background-attachment: fixed;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.body{
+    background-image: url("imgs/Greyvector.svg");
+    background-position: right bottom 150%;
+    background-repeat: no-repeat
+}
+.b-navy{
+    background: #0E0E56;
+}
+.t-lightpurple{
+    color: #9A9AE2;
+}
+
+.t-yellow{
+    color: #FFC634;
+}
+.t-navy{
+    color: #0E0E56;
+}
+.t-pink{
+    color: #EF4583;
+}
+.t-lightgrey{
+    color:#4B5563;
+}
+.signature{
+    font-family: "Brush Script MT", cursive;
+    font-style: italic;
+}
